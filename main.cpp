@@ -178,7 +178,7 @@ const std::string FISIER_FATA = "face_model.yml";
 const int FACE_WIDTH = 200;
 const int FACE_HEIGHT = 200;
 const int NUMAR_CAPTURI = 10;
-const double PRAG_RECUNOASTERE = 50.0;
+const double PRAG_RECUNOASTERE = 40.0;
 
 cv::VideoCapture camera;
 cv::Ptr<cv::FaceDetectorYN> detector;
